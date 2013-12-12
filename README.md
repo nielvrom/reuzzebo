@@ -1,5 +1,5 @@
-ReUzze BackOffice Template
+ReUzze Backoffice Template
 ==========================
 
-## Bootstrap template created by Niels & Gilles.
-### Used in project 'kMoetdatHebben' on Artevelde University.
+#### Bootstrap template created by Niels & Gilles.
+
